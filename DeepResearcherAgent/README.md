@@ -15,7 +15,7 @@ A multi-stage research workflow agent powered by Agno, Firecrawl, and Nebius AI 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/avikumart/Hands-On-AI-Engineering.git
+git clone https://github.com/Sumanth077/Hands-On-AI-Engineering.git
 cd Hands-On-AI-Engineering/DeepResearcherAgent
 ```
 
